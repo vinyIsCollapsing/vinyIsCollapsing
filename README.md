@@ -1,10 +1,9 @@
 <div align="center">
 
-# Vinícius Rocha Miranda Souza
+<!-- Animação de digitação interativa -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Vin%C3%ADcius+Rocha+Miranda+Souza;Computer+Engineering+%26+Robotics;Embedded+Systems+%7C+PCB+Design;IEEE+CASS+World+Winner)](https://git.io/typing-svg)
 
-**Computer Engineering & Robotics Student | Embedded Systems & PCB Design Enthusiast**
-
-*Building bridges between hardware and software, from low-level firmware to high-level robotics simulation.*
+**Building bridges between hardware and software, from low-level firmware to high-level robotics simulation.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v1nnye)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinyiscollapsing.github.io/)
@@ -12,9 +11,13 @@
 
 </div>
 
+---
+
 ## About Me
 
-I am a final-year **Computer Engineering and Robotics** student (graduating in 2026) with a strong focus on **embedded systems, research and development, and robotics**.
+I am a final-year **Computer Engineering and Robotics** student (graduating in 2026) with hands-on experience in embedded systems (STM32), sensor development, PCB design, and robotics. Currently an exchange student at **Polytech Montpellier** (France) through the BRAFITEC Program.
+
+My experience ranges from designing inductive load sensors on PCBs for airport applications to developing C++/Python tools for environmental footprint analysis. I am passionate about creating efficient, low-level solutions that interact with the physical world.
 
 ## Tech Stack
 
@@ -30,24 +33,23 @@ I am a final-year **Computer Engineering and Robotics** student (graduating in 2
 ![Verilog](https://img.shields.io/badge/Verilog-B71C1C?style=for-the-badge&logo=verilog&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB_Design-FFD600?style=for-the-badge&logo=pcbdesign&logoColor=black)
 ![Proteus](https://img.shields.io/badge/Proteus-1A237E?style=for-the-badge&logo=proteus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Robotics & Simulation**
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-FF6F00?style=for-the-badge&logo=coppeliasim&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 **Software & Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## Featured Projects
-
-### [Heimlich Maneuver Prototype](https://github.com/vinyIsCollapsing/HeimlichPrototype) 
-**World Winner - IEEE CASS Student Design Competition 2022-2023**
-A low-cost electronic prototype designed to guide the application of the Heimlich maneuver, featuring a force sensor, Arduino, and audio instructions. Responsible for 3D modeling and printing.
-*Tech Stack: `Arduino` `3D Modeling` `Embedded C`*
 
 ### [Modelisation3D - KUKA LBR4+](https://github.com/vinyIsCollapsing/Modelisation3D)
 Kinematic modeling and control of a 7-axis KUKA LBR4+ robot in Octave, including forward/inverse kinematics, Jacobian, and real-time integration with CoppeliaSim.
@@ -57,16 +59,25 @@ Kinematic modeling and control of a 7-axis KUKA LBR4+ robot in Octave, including
 A leaderless swarm of BBC micro:bit v2 boards where each unit follows simple local rules, resulting in emergent collective behavior.
 *Tech Stack: `Python` `micro:bit` `Swarm Robotics`*
 
-## Experience
-
-**R&D Intern - Embedded Systems & Electronics** @ ADVEEZ SAS (France) *Feb 2026 - Aug 2026*
-*   Developed an inductive load detection system (Capteur de Charge) for airport dollies using embedded C on STM32 and the LDC1612 converter.
-*   Designed the inductive detection antenna (spiral coil on PCB) from theoretical sizing to firmware implementation.
-
-**Research Intern** @ LIRMM (France) *Apr 2025 - Jul 2025*
-*   Developed a C++/Python tool (PyQt5) for analyzing the environmental footprint of software and hardware, integrating LCA methodologies.
+---
 
 ## Education
 
-*   **Microelectronics and Automation Engineering** - Polytech Montpellier (France) *2024 - 2026* (Exchange Student - BRAFITEC Program)
-*   **Computer Engineering** - PUCRS (Brazil) *2021 - 2026*
+**Microelectronics and Automation Engineering** - Polytech Montpellier *(France)*
+*2024 - 2026*
+Exchange student through the BRAFITEC Program (Brazil-France academic cooperation). Specialization in Robotics.
+
+**Computer Engineering** - PUCRS *(Brazil)*
+*2021 - 2026*
+Bachelor's degree in Computer Engineering (in progress).
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinyIsCollapsing&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyIsCollapsing&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
