@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Vin%C3%ADcius+Rocha+Miranda+Souza;Computer+Engineering+%26+Robotics;Embedded+Systems+%7C+PCB+Design;IEEE+CASS+World+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=vinyIsCollapsing;Computer+Engineering+%26+Robotics;Embedded+Systems+%7C+PCB+Design)](https://git.io/typing-svg)
 
 **Hardware and software, from low-level firmware to high-level robotics simulation.**
 
