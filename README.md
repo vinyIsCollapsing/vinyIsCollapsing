@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Vin%C3%ADcius+Rocha+Miranda+Souza;Computer+Engineering+%26+Robotics;Embedded+Systems+%7C+PCB+Design;IEEE+CASS+World+Winner)](https://git.io/typing-svg)
 
-**Building bridges between hardware and software, from low-level firmware to high-level robotics simulation.**
+**Hardware and software, from low-level firmware to high-level robotics simulation.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v1nnye)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinyiscollapsing.github.io/)
