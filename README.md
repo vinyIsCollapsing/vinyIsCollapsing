@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animação de digitação interativa -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Vin%C3%ADcius+Rocha+Miranda+Souza;Computer+Engineering+%26+Robotics;Embedded+Systems+%7C+PCB+Design;IEEE+CASS+World+Winner)](https://git.io/typing-svg)
 
 **Building bridges between hardware and software, from low-level firmware to high-level robotics simulation.**
@@ -15,7 +14,7 @@
 
 ## About Me
 
-I am a final-year **Computer Engineering and Robotics** student (graduating in 2026) with hands-on experience in embedded systems (STM32), sensor development, PCB design, and robotics. Currently an exchange student at **Polytech Montpellier** (France) through the BRAFITEC Program.
+I am a final-year **Computer Engineering and Robotics** student (graduating in 2026) with hands-on experience in embedded systems (STM32), sensor development, PCB design, and robotics.
 
 My experience ranges from designing inductive load sensors on PCBs for airport applications to developing C++/Python tools for environmental footprint analysis. I am passionate about creating efficient, low-level solutions that interact with the physical world.
 
@@ -61,18 +60,6 @@ A leaderless swarm of BBC micro:bit v2 boards where each unit follows simple loc
 
 ---
 
-## Education
-
-**Microelectronics and Automation Engineering** - Polytech Montpellier *(France)*
-*2024 - 2026*
-Exchange student through the BRAFITEC Program (Brazil-France academic cooperation). Specialization in Robotics.
-
-**Computer Engineering** - PUCRS *(Brazil)*
-*2021 - 2026*
-Bachelor's degree in Computer Engineering (in progress).
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -81,3 +68,5 @@ Bachelor's degree in Computer Engineering (in progress).
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyIsCollapsing&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/vinyIsCollapsing/vinyIsCollapsing/output/github-contribution-grid-snake.svg)
